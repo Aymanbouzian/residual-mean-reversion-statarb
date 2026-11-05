@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.env
+lean.json
+.lean/
+data/
+backtests/
+*.key
+*.pem
